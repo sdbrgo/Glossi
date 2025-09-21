@@ -8,3 +8,4 @@ As of this writing (July 22, 2025), I am still not set with a predictive model t
 
 ### Status
 * 2025-07-22 Data Gathering Phase (2-month duration)
+* 2025-09-21 Log: I learned that what I'm doing is actually a multivariate time-series model (recursive forecasting).
