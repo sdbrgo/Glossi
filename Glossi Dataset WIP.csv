@@ -85,3 +85,4 @@ date,min_dryness,max_dryness,min_heaviness,max_heaviness,shampoo_used_today,cond
 2025-10-04,2.5,4,4.3,5.3,no,no,0,0,70,0,2
 2025-10-05,2,6,1,4,yes,yes,3,1,68,10,6
 2025-10-06,4,6,2,3.5,no,no,0,0,69,0,3
+2025-10-07,1,3.5,3,5,no,no,3.5,0,70,6,2
